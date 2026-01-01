@@ -1,3 +1,11 @@
-*.csv
 __pycache__/
+*.pyc
+env/
+venv/
+.streamlit/
 .env
+.vscode/
+.idea/
+*.pkl
+*.csv
+

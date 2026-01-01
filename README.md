@@ -32,7 +32,4 @@ http://localhost:8501
 ## License
 MIT
 
-## Dataset
-Due to GitHub size limits, the dataset is not included.
-Download CIC-IDS2017 from the official source.
 
